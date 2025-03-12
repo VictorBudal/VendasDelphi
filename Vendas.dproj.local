@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/12/01 01:29:46.000.260,=C:\Users\victor\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/01 01:30:09.000.545,D:\Projetos\DelphiProject\uPrincipal.dfm=C:\Users\victor\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/12/01 01:30:09.000.545,D:\Projetos\DelphiProject\uPrincipal.pas=C:\Users\victor\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/01 01:30:15.000.279,D:\Projetos\DelphiProject\Vendas.dproj=C:\Users\victor\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/12/01 01:41:43.000.793,=D:\Projetos\DelphiProject\Unit1.pas</Transaction>
+    <Transaction>2024/12/01 01:42:43.000.328,D:\Projetos\DelphiProject\dataModule\uDTMConnection.pas=D:\Projetos\DelphiProject\Unit1.pas</Transaction>
+    <Transaction>2024/12/01 01:42:43.000.328,D:\Projetos\DelphiProject\dataModule\uDTMConnection.dfm=D:\Projetos\DelphiProject\Unit1.dfm</Transaction>
+    <Transaction>2025/03/06 21:53:39.000.943,=D:\Projetos\DelphiProject\Unit1.pas</Transaction>
+    <Transaction>2025/03/11 22:52:16.000.173,=D:\Projetos\DelphiProject\Unit1.pas</Transaction>
+    <Transaction>2025/03/11 22:53:09.000.299,D:\Projetos\DelphiProject\Unit1.dfm=D:\Projetos\DelphiProject\heranca\uTelaHeranca.dfm</Transaction>
+    <Transaction>2025/03/11 22:53:09.000.299,D:\Projetos\DelphiProject\Unit1.pas=D:\Projetos\DelphiProject\heranca\uTelaHeranca.pas</Transaction>
+    <Transaction>2025/03/11 23:26:42.287,=D:\Projetos\DelphiProject\Unit1.pas</Transaction>
+    <Transaction>2025/03/11 23:27:26.851,D:\Projetos\DelphiProject\cadastro\uCadCategorias.pas=D:\Projetos\DelphiProject\Unit1.pas</Transaction>
+    <Transaction>2025/03/11 23:27:26.851,D:\Projetos\DelphiProject\cadastro\uCadCategorias.dfm=D:\Projetos\DelphiProject\Unit1.dfm</Transaction>
+    <Transaction>2025/03/11 23:28:11.523,D:\Projetos\DelphiProject\cadastro\uCadCategoria.pas=D:\Projetos\DelphiProject\cadastro\uCadCategorias.pas</Transaction>
+    <Transaction>2025/03/11 23:28:11.523,D:\Projetos\DelphiProject\cadastro\uCadCategoria.dfm=D:\Projetos\DelphiProject\cadastro\uCadCategorias.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
